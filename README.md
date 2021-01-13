@@ -1,3 +1,5 @@
+# [Deprecated], move to https://github.com/yfdinfra/team
+
 # 关于猿辅导
 
 猿辅导是一家在线教育公司，通过技术让学习更加高效，给不同地区的学生提供平等的学习机会。
