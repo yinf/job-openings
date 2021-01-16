@@ -1,4 +1,4 @@
-# [Deprecated], move to https://github.com/yfdinfra/team
+# [Deprecated], move to https://github.com/yfdinfra/yfdinfra
 
 # 关于猿辅导
 
