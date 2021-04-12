@@ -15,16 +15,15 @@
 是的，我们现在开放了以下工程师岗位:
 * [系统架构师](jobs/architect.md)
 * [消息中间件 Tech Lead](jobs/tech-lead-message-queue.md)
-* [前端工程 Tech Lead](jobs/tech-lead-frontend-engineering.md)
 * [测试工程工程师](jobs/engineer-testing.md)
 * [消息中间件工程师](jobs/engineer-message-queue.md)
+* [API 网关工程师](jobs/engineer-api-gateway.md)
+* [RPC 框架工程师](jobs/engineer-rpc.md)
 * [服务治理工程师 / 实习工程师](jobs/engineer-service-governance.md)
 * [工程效率工程师 / 实习工程师](jobs/engineer-engineering.md)
 * [工程效率前端工程师](jobs/frontend-engineer-engineering.md)
-* [前端架构工程师](jobs/frontend-engineer-architecture.md)
 * [监控平台前端工程师](jobs/frontend-engineer-monitoring.md)
 * [测试工程前端工程师](jobs/frontend-engineer-testing.md)
-* [监控平台实习工程师](jobs/intern-engineer-monitoring.md)
 
 此外我们还有一些产品经理岗位:
 * [监控平台高级产品经理](jobs/pm-monitoring.md)

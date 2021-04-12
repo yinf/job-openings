@@ -9,7 +9,7 @@
 * 3 年以上工作经验。
 * 有大规模微服务系统开发、维护、故障处理经验。
 * 对于分布式一致性问题有深入理解。
-* 对于 Thrift、ZooKeeper、Nacos、Envoy、Istio、Kubernetes、Nginx、OpenResty、Sentinel、Resilience4j 或其他相关的技术有深入理解，了解起设计思想、原理与最佳实践。
+* 对于 Thrift、ZooKeeper、Nacos、Envoy、Istio、Kubernetes、Nginx、OpenResty、Sentinel、Resilience4j 或其他相关的技术有深入理解，了解其设计思想、原理与最佳实践。
 * 优秀的技术调研、方案设计、编码能力。
 
 我们目前的技术栈是: Thrift、ZooKeeper、Nacos、Docker、Kubernetes、Nginx，应用服务开发语言上以 Java 为主，视将来的技术选型，也可能有 Go 或 C++ 的语言需求。
